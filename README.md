@@ -1,0 +1,1 @@
+- [lab1](https://github.com/fearlessatom/mathematical-methods-of-operations-research/tree/lab1)
