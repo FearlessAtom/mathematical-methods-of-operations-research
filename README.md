@@ -1,1 +1,1 @@
-- [lab1](https://github.com/fearlessatom/mathematical-methods-of-operations-research/tree/lab1)
+### [main branch](https://github.com/fearlessatom/mathematical-methods-of-operations-research)
