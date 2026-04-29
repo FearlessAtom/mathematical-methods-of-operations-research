@@ -5,3 +5,4 @@
 - [lab5](https://github.com/fearlessatom/mathematical-methods-of-operations-research/tree/lab5)
 - [lab6](https://github.com/fearlessatom/mathematical-methods-of-operations-research/tree/lab6)
 - [lab7](https://github.com/fearlessatom/mathematical-methods-of-operations-research/tree/lab7)
+- [lab8](https://github.com/fearlessatom/mathematical-methods-of-operations-research/tree/lab8)
